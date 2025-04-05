@@ -1,3 +1,1 @@
-"# update-bank-project" 
-"# update-bank-project" 
-"# prime-number" 
+"# School-Detailes-using-inheritance-and-method-Overriding" 
